@@ -10,6 +10,3 @@ This project sets up a **CI/CD pipeline** using **Jenkins inside a Docker contai
 ✅ **Automated Deployment** using Docker Compose  
 ✅ **Scalable & Flexible** (Can extend to Kubernetes)  
 
----
-
-## 📂 Project Structure  
